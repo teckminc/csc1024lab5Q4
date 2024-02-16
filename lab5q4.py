@@ -16,6 +16,7 @@ my_list = [1.0]
 my_list = []
 
 Function to use: float(), input(), print(), list.append(), list.sort()
+Keyword: del
 Operators: <=, +, -
 Structure: while
 '''
